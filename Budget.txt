@@ -1,0 +1,8 @@
+15.00
+Apples, 1.50
+Broccoli, 2.00
+Yogurt, 4.00
+Chocolate, 3.80
+Paper Towels, 2.20
+Milk, 1.70
+Ice cream, 4.50
